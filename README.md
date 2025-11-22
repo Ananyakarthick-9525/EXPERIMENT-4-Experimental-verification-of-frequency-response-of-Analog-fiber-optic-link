@@ -32,34 +32,34 @@ current flows through its emitter generating the voltage across the resistance c
 
 ## PROCEDURE
 
-	Refer to the block diagram & carry out the following connections and settings.
-	Connect the power supply with proper polarity to the kit link-B and switch it on.
-	Keep all Switch Faults in OFF position.
-	Keep switch SW8 towards TX position.
-	Keep switch SW9 towards TX1 position.
-	Keep Jumper JP5 towards +12V position.
-	Keep Jumpers JP6, JP9, JP10 shorted.
-	Keep Jumper JP8 towards sine position.
-	Keep Intensity control pot P2 towards minimum position.
-	Feed about 2Vpp sinusoidal signal of 1 KHz from the function generator to the IN post of Analog Buffer.
+-	Refer to the block diagram & carry out the following connections and settings.
+-	Connect the power supply with proper polarity to the kit link-B and switch it on.
+-	Keep all Switch Faults in OFF position.
+-	Keep switch SW8 towards TX position.
+-	Keep switch SW9 towards TX1 position.
+-	Keep Jumper JP5 towards +12V position.
+-	Keep Jumpers JP6, JP9, JP10 shorted.
+-	Keep Jumper JP8 towards sine position.
+-	Keep Intensity control pot P2 towards minimum position.
+-	Feed about 2Vpp sinusoidal signal of 1 KHz from the function generator to the IN post of Analog Buffer.
 
 <img width="685" height="292" alt="image" src="https://github.com/user-attachments/assets/deeb13f1-8e37-4986-822b-559132f14281" />
 
  
-	Connect the output post OUT of Analog Buffer to the post TX IN of Transmitter.
-	Slightly unscrew the cap of SFH756V (660nm). Do not remove the cap from the connector. Once the cap is loosened, insert the one meter fiber into the cap. Now tighten the cap by screwing it back.
-	Connect the other end of the Fiber to detector SFH350V (Photo Transistor Detector) very carefully.
-	Observe the detected signal at post ANALOG OUT on oscilloscope. Adjust Intensity control pot P2 Optical Power control potentiometer so that you receive signal of 2Vpp amplitude.
+-	Connect the output post OUT of Analog Buffer to the post TX IN of Transmitter.
+-	Slightly unscrew the cap of SFH756V (660nm). Do not remove the cap from the connector. Once the cap is loosened, insert the one meter fiber into the cap. Now tighten the cap by screwing it back.
+-	Connect the other end of the Fiber to detector SFH350V (Photo Transistor Detector) very carefully.
+-	Observe the detected signal at post ANALOG OUT on oscilloscope. Adjust Intensity control pot P2 Optical Power control potentiometer so that you receive signal of 2Vpp amplitude.
 
 <img width="743" height="301" alt="image" src="https://github.com/user-attachments/assets/1ee120f9-92c5-4e97-ac32-f6520bf30d78" />
 
 
-	To measure the analog bandwidths of the phototransistor vary the input signal frequency and observe the detected signal at various frequencies.
-	Plot the detected signal against applied signal frequency and from the plot determine the 3dB down frequency.
-	Keep switch SW9 towards TX2 position.
-	Keep Jumper JP7 towards +12V position.
-	Remove fiber cable from SFH756V (660nm) and slightly unscrew the cap of SFH450V (950nm). Do not remove the cap from the connector. Once the cap is loosened, insert the one meter fiber into the cap. Now tighten the cap by screwing it back.
-	Observe the detected signal at post ANALOG OUT on oscilloscope.
+-	To measure the analog bandwidths of the phototransistor vary the input signal frequency and observe the detected signal at various frequencies.
+-	Plot the detected signal against applied signal frequency and from the plot determine the 3dB down frequency.
+-	Keep switch SW9 towards TX2 position.
+-	Keep Jumper JP7 towards +12V position.
+-	Remove fiber cable from SFH756V (660nm) and slightly unscrew the cap of SFH450V (950nm). Do not remove the cap from the connector. Once the cap is loosened, insert the one meter fiber into the cap. Now tighten the cap by screwing it back.
+-	Observe the detected signal at post ANALOG OUT on oscilloscope.
 
 <img width="721" height="292" alt="image" src="https://github.com/user-attachments/assets/599d4fcc-b1e2-45fb-a98d-5f833cade038" />
 
