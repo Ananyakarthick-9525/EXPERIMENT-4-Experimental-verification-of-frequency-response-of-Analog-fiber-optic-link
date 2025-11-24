@@ -106,17 +106,23 @@ and ground. This voltage is the duplication of the transmitted electrical signal
 
 ## TABULATION  
 **Transmission through Analog Link**
+![IMG_20251124_222022](https://github.com/user-attachments/assets/e15b2859-1e0e-4abd-b49c-dc6f0922ee18)
+
+![518014589-8b35a7e5-781b-4929-8312-9804fd5d6159](https://github.com/user-attachments/assets/daccf5b1-9599-453c-8262-5568a9f9e437)
 
 
 
----
 
-## MODEL GRAPH
 
-*(Insert model graph here)*
+
+
+
+
 
 ---
 
 ## RESULT
+The transmitted and received waveforms for the 660 nm fiber link matched closely, confirming faithful analog and digital signal transfer.
+Output amplitude decreased with increasing frequency, showing the fiber link’s frequency-dependent response.
+The calculated –3 dB point confirms the bandwidth of the 660 nm analog/digital fiber optic link.
 
-*(Summarize observations and conclusions here)*
